@@ -1,0 +1,1 @@
+As part of The Odin Project's Foundation Path, here is my implementation of the Rock-Paper-Scissors game.
